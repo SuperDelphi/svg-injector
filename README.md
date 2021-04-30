@@ -1,6 +1,6 @@
 ![svginjector](https://user-images.githubusercontent.com/44942598/116723245-9787e980-a9df-11eb-8ac0-0b480b0c90b3.png)
 
-Replaces all of your SVG images (from a \<img> tag) by a \<svg> one. Allows better and easier manipulation on the shapes. Conserves original id, class and name attributes of the \<img> tag.
+Replaces all of your SVG images (from a ``<img>`` tag) by a ``<svg>`` one. Allows better and easier manipulation on the shapes. Conserves original ``id``, ``class`` and ``name`` attributes of the ``<img>`` tag.
 
 ## How to use it
 
