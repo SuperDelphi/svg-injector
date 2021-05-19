@@ -13,7 +13,7 @@ document.addEventListener("DOMContentLoaded", async () => {
             try {
                 xmlData = parser.parseFromString(rawData, "image/svg+xml");
             } catch (e) {
-                console.warn("Un élément SVG n'a pas pu être parsé : il a été laissé tel quel dans le DOM.");
+                console.warn("SVG element could not be parsed: it was left as is in the DOM.");
                 return;
             }
 
