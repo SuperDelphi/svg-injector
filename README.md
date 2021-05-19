@@ -4,9 +4,10 @@ Replaces all of your SVG images (from a ``<img>`` tag) by a ``<svg>`` one. Allow
 
 ## How to use it
 
-Just import the JavaScript file within your HTML document to make it work!
+Import the [axios](https://github.com/axios/axios) library and the ``main.js`` file within your HTML document to make it work!
 
 ```html
+<script src="https://unpkg.com/axios"></script>
 <script src="main.js"></script>
 ```
 
@@ -41,3 +42,7 @@ N.B. This will only be like this on the browser.
     Enhance your work!
 </a>
 ```
+
+## Dependencies
+
+This library depends on the the [axios](https://github.com/axios/axios) library, although it is temporary (I'll change that when I have time).
