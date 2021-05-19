@@ -40,6 +40,4 @@ document.addEventListener("DOMContentLoaded", async () => {
             imgs[i].remove();
         }
     }
-
-    // const svgData = await axios();
 });
